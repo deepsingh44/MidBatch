@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MidBatch</string>
+    <string name="register"><u>For <b><font color='red'>new user</font></b> click here!</u></string>
+
+    <string-array name="course">
+        <item>Select Course</item>
+        <item>Java</item>
+        <item>Android</item>
+        <item>Python</item>
+        <item>Other</item>
+    </string-array>
+</resources>
